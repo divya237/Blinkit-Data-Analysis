@@ -53,7 +53,7 @@ The primary goals of this project are to:
      - **Line Chart:** Sales trends over time.
      - **Bar Charts:** Item sales and outlet performance.
      - **Pie Charts:** Outlet size and location contributions.
-
+Kaggle dataset : C:\Users\divya chauhan\Downloads\BlinkIT Grocery Data (1).xlsx
 ## Screenshots
 ### Dashboard Overview:
 ![image](https://github.com/user-attachments/assets/dd8f9ff5-a77a-4728-8529-8c5ea673c457)
