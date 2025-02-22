@@ -1,15 +1,15 @@
 # Blinkit Analysis Dashboard
 
-## Overview
+## 📌Overview
 This project showcases an interactive Power BI dashboard analyzing Blinkit's sales, outlet performance, and customer preferences. The dashboard provides valuable insights for improving operational efficiency, boosting sales, and enhancing customer experience.
 
-## Objective
+## 💡Objective
 The primary goals of this project are to:
 - Analyze Blinkit's total sales performance and key metrics.
 - Evaluate sales trends based on outlet types, sizes, and locations.
 - Identify top-selling items and customer preferences.
 
-## Key Metrics and Insights
+## 📊Key Metrics and Insights
 ### Dashboard Highlights:
 1. **Total Sales:** $1.2M  
 2. **Number of Items Sold:** 9K  
@@ -30,7 +30,7 @@ The primary goals of this project are to:
 - **Fat Content Analysis:**
   - Regular fat items contribute $0.77M, while low-fat items contribute $0.42M.
 
-## Tools and Technologies
+## 🛠️Tools and Technologies
 - **Power BI:** For designing the interactive dashboard.
   
 ## Dataset
@@ -39,7 +39,7 @@ The primary goals of this project are to:
   - Items (type, sales, ratings).
   - Sales trends over multiple years.
 
-## Project Workflow
+## 🌊Project Workflow
 1. **Data Cleaning:**
    - Handled missing values and duplicates in Python.
    - Normalized column names and performed data transformations.
@@ -54,7 +54,7 @@ The primary goals of this project are to:
      - **Bar Charts:** Item sales and outlet performance.
      - **Pie Charts:** Outlet size and location contributions.
 Kaggle dataset : C:\Users\divya chauhan\Downloads\BlinkIT Grocery Data (1).xlsx
-## Screenshots
+## Screenshots🗒️
 ### Dashboard Overview:
 ![image](https://github.com/user-attachments/assets/dd8f9ff5-a77a-4728-8529-8c5ea673c457)
 
